@@ -1,2 +1,2 @@
-# Netflix-Clone
-Netflix Clone using Html, Css &amp; Javascript
+# Netflix-Clone-Landing-Page
+Netflix Clone using Html, Css &amp; 
